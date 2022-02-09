@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangnew&show_icons=true&theme=radical)
+![zhangnew's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangnew&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on BigData
 - 📫 How to reach me: [zhangnew.com](https://zhangnew.com)
+
+![hits](https://hits.zhangnew.com//api/count/hits.gif?url=https://github.com/zhangnew)
 
 <!--
 **zhangnew/zhangnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
