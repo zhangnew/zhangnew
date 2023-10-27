@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-![zhangnew's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangnew&show_icons=true&theme=radical)
+![zhangnew's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangnew&show_icons=true&theme=radical&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 - 🔭 I’m currently working on BigData
 - 📫 How to reach me: [zhangnew.com](https://zhangnew.com)
 
+<!--
+
 ![hits](https://hits.zhangnew.com//api/count/hits.gif?url=https://github.com/zhangnew)
 
-<!--
 **zhangnew/zhangnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
